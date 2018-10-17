@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Investigación"
     url: /ingestigacion/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Estudiantes"
+    url: /estudiantes/
+  - title: "Docencia"
+    url: /docencia/
   # - title: "Sitemap"
   #   url: /sitemap/
