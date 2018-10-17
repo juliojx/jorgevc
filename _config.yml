@@ -105,14 +105,14 @@ author:
   avatar           : "assets/images/Infoimages/bio-photo.jpg"
   bio              : "Profesor investigador T.C. BUAP."
   location         : "Ciudad Universitaria, BUAP"
-  email            :
+  email            : "https://www.researchgate.net/profile/Jorge_Velazquez-Castro"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "https://www.researchgate.net/profile/Jorge_Velazquez-Castro"
+       #url: "https://www.researchgate.net/profile/Jorge_Velazquez-Castro"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://your-website.com"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
