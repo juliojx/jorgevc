@@ -8,5 +8,7 @@ main:
     url: /estudiantes/
   - title: "Docencia"
     url: /docencia/
+  - title: "Publicaciones"
+    url: /publicaciones/
   # - title: "Sitemap"
   #   url: /sitemap/
