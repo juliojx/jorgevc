@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-MX"
 title                    : "Mi sitio personal"
 title_separator          : "-"
 name                     : "jorge.velazquezcastro@correo.buap.mx"
