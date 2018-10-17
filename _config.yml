@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Jorge Velázquez Castro"
   avatar           : "assets/images/Infoimages/bio-photo.jpg"
-  bio              : "Profesor investigador T.C. BUAP."
+  bio              : "Profesor investigador de tiempo completo de la Benemérita Universidad Autónoma de Puebla."
   location         : "Ciudad Universitaria BUAP"
   email            : "https://www.researchgate.net/profile/Jorge_Velazquez-Castro"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "https://www.researchgate.net/profile/Jorge_Velazquez-Castro"
+       url: "https://www.researchgate.net/profile/Jorge_Velazquez-Castro"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
