@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Inicio"
+    url: https://juliojx.github.io/jorgevc/
   - title: "Investigación"
     url: /ingestigacion/
-  - title: "Estudiantes"
-    url: /estudiantes/
   - title: "Docencia"
     url: /docencia/
   - title: "Publicaciones"
     url: /publicaciones/
+  - title: "Estudiantes"
+    url: /estudiantes/
   # - title: "Sitemap"
   #   url: /sitemap/
