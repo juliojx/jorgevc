@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "es-MX"
 title                    : "Mi sitio personal"
 title_separator          : "-"
-name                     : "jorge.velazquezcastro@correo.buap.mx"
+name                     : "Jorge Velázquez Castro"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,7 +105,7 @@ author:
   avatar           : "assets/images/Infoimages/bio-photo.jpg"
   bio              : "Profesor investigador de tiempo completo de la Benemérita Universidad Autónoma de Puebla."
   location         : "Ciudad Universitaria BUAP"
-  email            : "https://www.researchgate.net/profile/Jorge_Velazquez-Castro"
+  email            : "jorge.velazquezcastro@correo.buap.mx"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
