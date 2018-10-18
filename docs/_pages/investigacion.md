@@ -1,5 +1,5 @@
 ---
-permalink: https://juliojx.github.io/jorgevc/investigacion/
+permalink: /investigacion/
 title: "Investigación"
 
 ---

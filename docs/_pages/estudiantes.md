@@ -1,5 +1,5 @@
 ---
-permalink: https://juliojx.github.io/jorgevc/estudiantes/
+permalink: /estudiantes/
 title: "Estudiantes"
 
 ---
