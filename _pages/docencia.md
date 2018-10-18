@@ -1,5 +1,0 @@
----
-permalink: /docencia/
-title: "Docencia"
-
----

@@ -1,5 +1,0 @@
----
-permalink: /estudiantes/
-title: "Estudiantes"
-
----
