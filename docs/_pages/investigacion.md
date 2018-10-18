@@ -1,0 +1,5 @@
+---
+permalink: /investigacion/
+title: "Investigación"
+
+---
