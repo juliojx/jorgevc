@@ -1,5 +1,5 @@
 ---
-layout: page
+#layout: page
 permalink: /docencia/
 title: "Docencia"
 
