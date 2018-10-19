@@ -1,5 +1,5 @@
 ---
-permalink: https://juliojx.github.io/jorgevc/publicaciones/
+permalink: /publicaciones/
 title: "Publicaciones"
 
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: https://juliojx.github.io/jorgevc/docencia/
+permalink: /docencia/
 title: "Docencia"
 
 ---
