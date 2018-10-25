@@ -9,10 +9,5 @@ En construcción
 ## Mi experiencia en docencia
 
 
-
-- "Mecánica estadística" licenciatura FCFM-BUAP, Otoño 2018
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+- "Mecánica estadística", licenciatura FCFM-BUAP, Otoño 2018
+- "Ecuaciones Diferenciales", licenciatura FCFM-BUAP, Otoño 2018 
