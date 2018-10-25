@@ -1,7 +1,6 @@
 ---
 
-
-#layer: page
+#layout: page
 permalink: /investigacion/
 title: "Investigación"
 
