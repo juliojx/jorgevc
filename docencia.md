@@ -4,7 +4,6 @@ permalink: /docencia/
 title: "Docencia"
 
 ---
-En construcción
 
 ## Mi experiencia en docencia
 
