@@ -28,3 +28,9 @@ title: "Investigación"
   - Caminantes Aleatorios
   - Teoría de desviaciones grandes
   - Obtención de distribuciones de probabilidad para grandes sistemas 
+
+### Universidad Nacional Autónoma de México, Investigador asistente y maestría (Conacyt) 2006 - 2007
+- Propagación de ondas electromagnéticas en un cristal líquido con heterogeneidades en sus propiedades eléctricas. Se estudió analíticamente la dispersión y distancia de propagación de ondas electromagnéticas en una celda de cristal líquido uctuante. El cristal líquido presenta uctuaciones espacio-temporales a escala mesoscópica en su constante dieléctrica.
+  - Procesos estocásticos con ruido multiplicativo
+  - Electrodinámica
+  - Expansión de Van Kampen 
