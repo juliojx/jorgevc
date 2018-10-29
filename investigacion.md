@@ -19,3 +19,12 @@ title: "Investigación"
   - Modelos explícitamente espaciales tipo Lotka-Volterra
   - Simulaciones por computadora de Modelos basados en Agentes Individuales (IBM por siglas en inglés)
   - Rango y efectos de competencia entre especies 
+
+### Universidad Nacional Autónoma de México, Doctorado en Física (Conacyt) 2007 - 2011
+- Física estadística y generalizaciones a partir de procesos de renovación y caminantes aleatorios.
+  - Procesos estocasticos
+  - Física estadística
+  - Termodinámica
+  - Caminantes Aleatorios
+  - Teoría de desviaciones grandes
+  - Obtención de distribuciones de probabilidad para grandes sistemas 
