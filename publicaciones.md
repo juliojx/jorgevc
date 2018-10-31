@@ -1,4 +1,5 @@
 ---
+#layout: page
 permalink: /publicaciones/
 title: "Publicaciones"
 
