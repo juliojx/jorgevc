@@ -7,6 +7,12 @@ title: "Docencia"
 
 ## Mi experiencia en docencia
 
+<h2 title="Encabezado de docencia">Mi experiencia en docencia</h2>
+
+<p title="Experiencia 1">
+“Mecánica estadística”, licenciatura FCFM-BUAP, Otoño 2018 </p>
+
+
 
 - "Mecánica estadística", licenciatura FCFM-BUAP, Otoño 2018
 - "Ecuaciones Diferenciales", licenciatura FCFM-BUAP, Otoño 2018 
