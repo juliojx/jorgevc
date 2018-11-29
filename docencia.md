@@ -4,7 +4,7 @@ permalink: /docencia/
 title: "Docencia"
 
 ---
-<div style="padding-left:15px;">
+<div style="padding-left:20px;">
   
 <h3 id="Docencia">Mi experiencia en docencia</h3>  
 
