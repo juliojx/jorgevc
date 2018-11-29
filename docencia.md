@@ -9,7 +9,7 @@ title: "Docencia"
 
 <h3 title="Encabezado de docencia">Mi experiencia en docencia</h3>
 <ul>
-  <li>“Mecánica estadística”, licenciatura FCFM-BUAP, Otoño 2018</li>
+  <li style="font-size:70%;">“Mecánica estadística”, licenciatura FCFM-BUAP, Otoño 2018</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul> 
