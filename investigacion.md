@@ -14,17 +14,15 @@ title: "Investigación"
 
 #### Department of Physics, University of Nottingham Research Fellow (EPRS/Conacyt), 2012 - 2014 
 
-<ul>
-  <li style="font-size:75%;">Se desarrollaron modelos de competencia entre poblaciones de individuos con distinto comportamiento (especies). Dichos modelos se analizaron analiticamente y se hicieron grandes simulaciones por computadora para evaluar los factores que llevan a la extinción o coexistencia de alguna especie.</li>
+  <p style="font-size:75%;">Se desarrollaron modelos de competencia entre poblaciones de individuos con distinto comportamiento (especies). Dichos modelos se analizaron analiticamente y se hicieron grandes simulaciones por computadora para evaluar los factores que llevan a la extinción o coexistencia de alguna especie.</p>
   <ul>
+  
   <li style="font-size:75%;">Distribuciones de probabilidad y correlaciones espaciales</li>
     <li style="font-size:75%;">Problemas de reacción-difusión (Modelaje y simulación)</li>
     <li style="font-size:75%;">Problemas de percolación (Modelaje y simulación)</li>
     <li style="font-size:75%;"> Modelos explícitamente espaciales tipo Lotka-Volterra</li>
     <li style="font-size:75%;">Simulaciones por computadora de Modelos basados en Agentes Individuales (IBM por siglas en inglés)</li>
     <li style="font-size:75%;">Rango y efectos de competencia entre especies </li>
-    
-</ul>
   
 </ul>
 
