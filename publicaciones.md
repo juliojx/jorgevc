@@ -20,7 +20,7 @@ title: "Publicaciones"
  <li style="font-size:75%;">[8] G. F. T. Del Castillo and J. V. Castro. Schrodinger-Pauli equation for spin-3/2 particles. Revista Mexicana de Fisica, 50:306-310, June 2004.</li>
  </ul>
 
-### Divulgación
+<h3 id="Divulgación">Divulgación</h3>
 
  <ul>
   <li style="font-size:75%;">J. Velázquez. "Calentamiento de la Tierra", artículo publicado en el boletín mensual del CUC. D.F. Junio 2007</li>
