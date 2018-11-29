@@ -1,6 +1,6 @@
 ---
 #layout: page
 permalink: /personal/
-title: "personal"
+title: "Personal"
 
 ---
