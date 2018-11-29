@@ -18,7 +18,7 @@ title: "Estudiantes"
         <th>Información personal</th>
     </tr>
     <tr>
-        <td>Table /n as</td>
+        <td><img src="https://juliojx.github.io/jorgevc/img-20181115-wa0002.jpg" width="200"></td>
         <td>Table cell</td>
         <td>Table cell</td>
     </tr>
