@@ -2,7 +2,7 @@
 main:
   #- title: "Inicio"
    # url: https://juliojx.github.io/jorgevc/
-   - title: "Información personal"
+   - title: "personal"
     url: https://juliojx.github.io/jorgevc/personal/
   - title: "Investigación"
     url: https://juliojx.github.io/jorgevc/investigacion/
