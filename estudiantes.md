@@ -14,3 +14,20 @@ title: "Estudiantes"
 
 
 
+<table>
+    <tr>
+        <th>Table Header</th>
+        <th>Table Header</th>
+        <th>Table Header</th>
+    </tr>
+    <tr>
+        <td>Table /n as</td>
+        <td>Table cell</td>
+        <td>Table cell</td>
+    </tr>
+    <tr>
+        <td>Table cell</td>
+        <td>Table cell</td>
+        <td>Table cell</td>
+    </tr>
+</table>
