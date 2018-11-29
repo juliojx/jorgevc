@@ -29,18 +29,32 @@ title: "Investigación"
   
 </ul>
 
-
 #### Universidad Nacional Autónoma de México, Doctorado en Física (Conacyt) 2007 - 2011
-- Física estadística y generalizaciones a partir de procesos de renovación y caminantes aleatorios.
-  - Procesos estocasticos
-  - Física estadística
-  - Termodinámica
-  - Caminantes Aleatorios
-  - Teoría de desviaciones grandes
-  - Obtención de distribuciones de probabilidad para grandes sistemas 
+
+<ul>
+  <li style="font-size:75%;">Física estadística y generalizaciones a partir de procesos de renovación y caminantes aleatorios.</li>
+   <ul>
+    <li style="font-size:75%;">Procesos estocasticos</li>
+     <li style="font-size:75%;">Física estadística</li>
+     <li style="font-size:75%;">Termodinámica</li>
+     <li style="font-size:75%;">Caminantes Aleatorios</li>
+     <li style="font-size:75%;">Teoría de desviaciones grandes</li>
+     <li style="font-size:75%;">Obtención de distribuciones de probabilidad para grandes sistemas </li>
+    
+   </ul>
+  
+</ul>
 
 #### Universidad Nacional Autónoma de México, Investigador asistente y maestría (Conacyt) 2006 - 2007
-- Propagación de ondas electromagnéticas en un cristal líquido con heterogeneidades en sus propiedades eléctricas. Se estudió analíticamente la dispersión y distancia de propagación de ondas electromagnéticas en una celda de cristal líquido uctuante. El cristal líquido presenta uctuaciones espacio-temporales a escala mesoscópica en su constante dieléctrica.
-  - Procesos estocásticos con ruido multiplicativo
-  - Electrodinámica
-  - Expansión de Van Kampen 
+
+<ul>
+  <li style="font-size:75%;">Propagación de ondas electromagnéticas en un cristal líquido con heterogeneidades en sus propiedades eléctricas. Se estudió analíticamente la dispersión y distancia de propagación de ondas electromagnéticas en una celda de cristal líquido uctuante. El cristal líquido presenta uctuaciones espacio-temporales a escala mesoscópica en su constante dieléctrica.</li>
+   <ul>
+    <li style="font-size:75%;">Procesos estocásticos con ruido multiplicativo</li>
+     <li style="font-size:75%;">Electrodinámica</li>
+     <li style="font-size:75%;">Expansión de Van Kampen </li>
+    
+   </ul>
+  
+</ul>
+
