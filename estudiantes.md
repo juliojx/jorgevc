@@ -5,7 +5,7 @@ title: "Estudiantes"
 ---
 
 ## Estudiantes
-
+---
 <table>
     <tr>
         <th>Nombre</th>
