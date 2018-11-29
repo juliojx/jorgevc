@@ -4,7 +4,6 @@ permalink: /publicaciones/
 title: "Publicaciones"
 
 ---
-
  ### Publicaciones
  
  <ul>
