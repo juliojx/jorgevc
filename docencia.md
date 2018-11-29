@@ -4,8 +4,9 @@ permalink: /docencia/
 title: "Docencia"
 
 ---
-
-### Mi experiencia en docencia
+<div style="padding-left:15px;">
+  
+<h3 id="Docencia">Mi experiencia en docencia</h3>  
 
 <ul>
   <li style="font-size:75%;"><i>Mecánica estadística</i>, licenciatura FCFM-BUAP, Otoño 2018</li>
@@ -32,3 +33,5 @@ title: "Docencia"
   <li style="font-size:75%;">Asistente de curso <i>Termodinámica</i>, maestría y doctorado Instituto de Física UNAM, Feb 2007 - Jul 2007</li>
   <li style="font-size:75%;">Tutor independiente por 6 años, 2000 - 2006 </li>
 </ul> 
+
+</div>
