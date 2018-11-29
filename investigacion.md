@@ -5,7 +5,7 @@ title: "Investigación"
 
 ---
 
-<div style="padding-left:15px;">
+<div style="padding-left:20px;">
   
 <h3 id="Investigacion">Experiencia en investigación</h3>  
 
