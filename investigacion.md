@@ -5,6 +5,8 @@ title: "Investigación"
 
 ---
 
+<div style="padding-left:5px;">
+  
 ### Experiencia en investigación
 
 #### Benemérita Universidad Autónoma de Puebla, Facultad de Ciencias Físico Matemáticas, PI Titular A T.C. 
@@ -48,4 +50,4 @@ title: "Investigación"
      <li style="font-size:75%;">Expansión de Van Kampen </li>
   
 </ul>
-
+</div>
