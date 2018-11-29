@@ -5,6 +5,7 @@ title: "Estudiantes"
 ---
 
 ## Estudiantes
+
 | Nombre |Información personal | 
 | ------:| -----------:|
 |<img src="https://juliojx.github.io/jorgevc/img-20181115-wa0002.jpg" width="60"> | Título de tesis |
