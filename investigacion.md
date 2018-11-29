@@ -9,7 +9,9 @@ title: "Investigación"
 
 #### Benemérita Universidad Autónoma de Puebla, Facultad de Ciencias Físico Matemáticas, PI Titular A T.C. 
 
-- Modelación de sistemas dinámicos con especialidad en epidemiología, dinámica poblacional. Se elaboran y analizan modelos de expansión de la enfermedad del Dengue. También se comparan los resultados y predicciones con datos de brotes registrados anteriormente. 
+<ul>
+  <li style="font-size:75%;">Modelación de sistemas dinámicos con especialidad en epidemiología, dinámica poblacional. Se elaboran y analizan modelos de expansión de la enfermedad del Dengue. También se comparan los resultados y predicciones con datos de brotes registrados anteriormente. </li>
+</ul>
 
 #### Department of Physics, University of Nottingham Research Fellow (EPRS/Conacyt), 2012 - 2014 
 - Se desarrollaron modelos de competencia entre poblaciones de individuos con distinto comportamiento (especies). Dichos modelos se analizaron analiticamente y se hicieron grandes simulaciones por computadora para evaluar los factores que llevan a la extinción o coexistencia de alguna especie.
