@@ -21,8 +21,7 @@ title: "Investigación"
   <li style="font-size:75%;">Distribuciones de probabilidad y correlaciones espaciales</li>
     <li style="font-size:75%;">Problemas de reacción-difusión (Modelaje y simulación)</li>
     <li style="font-size:75%;">Problemas de percolación (Modelaje y simulación)</li>
-    <li style="font-size:75%;">
-  - Modelos explícitamente espaciales tipo Lotka-Volterra</li>
+    <li style="font-size:75%;"> Modelos explícitamente espaciales tipo Lotka-Volterra</li>
     <li style="font-size:75%;">Simulaciones por computadora de Modelos basados en Agentes Individuales (IBM por siglas en inglés)</li>
     <li style="font-size:75%;">Rango y efectos de competencia entre especies </li>
     
