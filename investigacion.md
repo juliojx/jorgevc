@@ -5,7 +5,7 @@ title: "Investigación"
 
 ---
 
-<div style="padding-left:5px;">
+<div style="padding-left:15px;">
   
 ### Experiencia en investigación
 
