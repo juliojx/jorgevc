@@ -6,6 +6,7 @@ title: "Publicaciones"
 ---
 
  ## Publicaciones
+ 
 - [1] Emilene Pliego Pliego, Jorge Velázquez-Castro, and Andres Fraguela-Collar. Seasonality on the life cycle of Aedes aegypti mosquito and its effects on dengue outbreaks. arXiv prepint arXiv: 1605.06430, 2016. Submitted to Applied Mathematical Modelling. 
 
 - [2] Derdei Bichara, Susan A. Holechek, Jorge Velázquez-Castro, Anarina L. Murillo, and Carlos Castillo-Chavez. On the dynamics of dengue virus type 2 with residence times and vertical transmission. Letters in Biomathematics, 3(1):140-160, January 2016.
