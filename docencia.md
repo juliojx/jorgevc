@@ -6,7 +6,6 @@ title: "Docencia"
 ---
 
 ### Mi experiencia en docencia
----
 
 <ul>
   <li style="font-size:75%;"><i>Mecánica estadística</i>, licenciatura FCFM-BUAP, Otoño 2018</li>
