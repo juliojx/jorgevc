@@ -5,7 +5,7 @@ title: "Investigación"
 
 ---
 
-## Experiencia en investigación
+### Experiencia en investigación
 
 ### Benemérita Universidad Autónoma de Puebla, Facultad de Ciencias Físico Matemáticas, PI Titular A T.C. 
 
