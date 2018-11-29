@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "Inicio"
-    url: https://juliojx.github.io/jorgevc/
-   - title: "personal"
+  - title: "Personal"
     url: https://juliojx.github.io/jorgevc/personal/
   - title: "Investigación"
     url: https://juliojx.github.io/jorgevc/investigacion/
