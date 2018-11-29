@@ -28,8 +28,7 @@ title: "Investigación"
 
 #### Universidad Nacional Autónoma de México, Doctorado en Física (Conacyt) 2007 - 2011
 
-<ul>
-  <li style="font-size:75%;">Física estadística y generalizaciones a partir de procesos de renovación y caminantes aleatorios.</li>
+  <p style="font-size:75%;">Física estadística y generalizaciones a partir de procesos de renovación y caminantes aleatorios.</p>
    <ul>
     <li style="font-size:75%;">Procesos estocasticos</li>
      <li style="font-size:75%;">Física estadística</li>
@@ -37,8 +36,6 @@ title: "Investigación"
      <li style="font-size:75%;">Caminantes Aleatorios</li>
      <li style="font-size:75%;">Teoría de desviaciones grandes</li>
      <li style="font-size:75%;">Obtención de distribuciones de probabilidad para grandes sistemas </li>
-    
-   </ul>
   
 </ul>
 
