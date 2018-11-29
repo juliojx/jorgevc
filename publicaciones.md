@@ -18,11 +18,6 @@ title: "Publicaciones"
  <li style="font-size:75%;">[6] Jorge Velázquez and Alberto Robledo. Renewal stochastic processes with correlated events: Phase transitions along time evolution. Physical Review E, 83(3), March 2011.</li>
  <li style="font-size:75%;">[7] Edwin Román-Hernández, José Guadalupe Santiago-Santiago, Gilberto Silva-Ortigoza, Ramón Silva-Ortigoza, and Jorge Velázquez-Castro. Describing the structure of ronchigrams when the grating is placed at the caustic region: the parabolical mirror. Journal of the Optical Society of America A, 27(4):832, April 2010.</li>
  <li style="font-size:75%;">[8] G. F. T. Del Castillo and J. V. Castro. Schrodinger-Pauli equation for spin-3/2 particles. Revista Mexicana de Fisica, 50:306-310, June 2004.</li>
- <li style="font-size:75%;"></li>
- <li style="font-size:75%;"></li>
- <li style="font-size:75%;"></li>
-  
- 
  </ul>
 
 ## Divulgación
