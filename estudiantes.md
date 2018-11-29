@@ -8,7 +8,7 @@ title: "Estudiantes"
 ---
 <table>
     <tr>
-        <th>Nombre</th>
+        <th>Fotografía</th>
         <th>Información personal</th>
         <th>Información académica</th>
     </tr>
