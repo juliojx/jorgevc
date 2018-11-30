@@ -26,4 +26,5 @@ title: "Personal"
            </ul>
         </td>
         <td> </td>
+        </tr>
 </table>
