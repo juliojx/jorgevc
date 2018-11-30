@@ -11,7 +11,7 @@ title: "Personal"
         <th>Idiomas</th>
     </tr>
     <tr>
-        <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/JorgeVC.jpg" width="500">  </td>
+        <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg" width="500">  </td>
         <td> Esta es la fomración académica del doctor Jorge</td>
         <td>Los idiomas del doctor Jorge </td>
     </tr>
