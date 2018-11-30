@@ -23,7 +23,7 @@ title: "Personal"
     </tr>
     <tr>
         <td> </td>
-        <td>Idiomas <br> </br> 
+        <td><h3>Idiomas </h3> <br> <br> 
          <ul>
            <li> Inglés, Certificado: First Certificate in English (Cambridge University)</li>
            <li> Alemán, Certificado: Zertifikat Deutsh, Mittelstuffe (Goethe Institut) </li>
