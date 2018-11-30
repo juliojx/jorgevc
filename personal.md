@@ -11,7 +11,7 @@ title: "Personal"
         <th>Idiomas</th>
     </tr>
     <tr>
-        <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg" width="100">  </td>
+        <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg" width="170">  </td>
         <td>
             <ul>
         <li> Doctorado en Física Estadística, Universidad Nacional Autónoma de México, México, 2011. Tesis en Física estadística </li>
