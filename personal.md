@@ -18,18 +18,16 @@ title: "Personal"
 <li> Maestría en Física, Universidad Nacional Autónoma de México, México, 2006. Tesis en Procesos estocásticos </li>
 <li> Licenciatura en Física, Benemerita Universidad Autónoma de Puebla, México, 2003. Tesis en Mecánica Cuantica </li>
             </ul>
-        </td>
-        <td> </td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td><h3>Idiomas </h3> <br> <br> 
+            <h3>Idiomas </h3> <br> <br> 
          <ul>
            <li> Inglés, Certificado: First Certificate in English (Cambridge University)</li>
            <li> Alemán, Certificado: Zertifikat Deutsh, Mittelstuffe (Goethe Institut) </li>
            <li> Español, Legua materna </li>
            </ul>
         </td>
+        <td> </td>
+    </tr>
+    <tr>
         <td> </td>
     </tr>
 </table>
