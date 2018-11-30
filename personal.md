@@ -9,7 +9,7 @@ img {
     border-radius: 8px;
 }
 </style>
-
+<div style="padding-left:20px;">
 <table>
     <tr>
         <th></th>
@@ -34,3 +34,4 @@ img {
         <td> </td>
         </tr>
 </table>
+</div>
