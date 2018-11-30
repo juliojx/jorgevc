@@ -8,7 +8,7 @@ title: "Personal"
     <tr>
         <th>Dr. Jorge Velázquez Castro</th>
         <th>Formación académica</th>
-        <th>Idiomas</th>
+        <th></th>
     </tr>
     <tr>
         <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg" width="170">  </td>
@@ -19,6 +19,11 @@ title: "Personal"
 <li> Licenciatura en Física, Benemerita Universidad Autónoma de Puebla, México, 2003. Tesis en Mecánica Cuantica </li>
             </ul>
         </td>
-        <td>Los idiomas del doctor Jorge </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>kajsd </td>
+        <td>asd </td>
+        <td> asdf</td>
     </tr>
 </table>
