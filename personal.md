@@ -30,6 +30,6 @@ title: "Personal"
            <li> Español, Legua materna </li>
            </ul>
         </td>
-        <td> asdf</td>
+        <td> </td>
     </tr>
 </table>
