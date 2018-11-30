@@ -17,7 +17,7 @@ img {
         <th></th>
     </tr>
     <tr>
-        <td> <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg" style="width:150px" class="center"> <br> Dr. Jorge Velázquez Castro </td>
+        <td> <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg" style="width:150px" class="center"> <br> Dr. Dr. Jorge Velázquez Castro. Profesor investigador de tiempo completo de la Benemérita Universidad Autónoma de Puebla. </td>
         <td> <br> <h3>Formación académica</h3> <br>
             <ul>
         <li> Doctorado en Física Estadística, Universidad Nacional Autónoma de México, México, 2011. Tesis en Física estadística </li>
