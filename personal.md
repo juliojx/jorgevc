@@ -6,10 +6,7 @@ title: "Personal"
 ---
 <style>
 img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
+    border-radius: 8px;
 }
 </style>
 
@@ -20,7 +17,7 @@ img {
         <th></th>
     </tr>
     <tr>
-        <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg"  alt="Paris" style="width:150px" width="170"> <br> Dr. Jorge Velázquez Castro </td>
+        <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/Jorge.jpeg" style="width:150px" width="170"> <br> Dr. Jorge Velázquez Castro </td>
         <td> <h3>Formación académica</h3> <br>
             <ul>
         <li> Doctorado en Física Estadística, Universidad Nacional Autónoma de México, México, 2011. Tesis en Física estadística </li>
