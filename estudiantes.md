@@ -3,7 +3,9 @@ permalink: /estudiantes/
 title: "Estudiantes"
 
 ---
-
+img {
+    border-radius: 8px;
+}
 ### Estudiantes
 ---
 <table>
