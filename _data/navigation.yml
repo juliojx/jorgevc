@@ -2,7 +2,9 @@
 main:
   #- title: "Información personal"
    # url: https://juliojx.github.io/jorgevc/personal/
-  - title: "Investigación"
+  - title: "Avisos"
+    url: https://juliojx.github.io/jorgevc/avisos/
+  - title: "Avisos"
     url: https://juliojx.github.io/jorgevc/investigacion/
   - title: "Docencia"
     url: https://juliojx.github.io/jorgevc/docencia/
