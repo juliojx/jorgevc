@@ -32,6 +32,4 @@ title: "Docencia"
   <li style="font-size:75%;">Asistente de curso <i>Física Estadística</i>, maestría y doctorado, Instituto de Materiales UNAM, Sep 2008 - Dic 2008</li>
   <li style="font-size:75%;">Asistente de curso <i>Termodinámica</i>, maestría y doctorado Instituto de Física UNAM, Feb 2007 - Jul 2007</li>
   <li style="font-size:75%;">Tutor independiente por 6 años, 2000 - 2006 </li>
-</ul> 
 
-</div>
