@@ -2,3 +2,6 @@
 layout: home
 author_profile: false
 ---
+{% for post in site.posts limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
