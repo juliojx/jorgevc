@@ -40,4 +40,16 @@ img {
         <td>Licenciatura en Matemáicas Aplicadas (Julio 2018). <br> Título de tesis: Modelo del ciclo de vida de la Daphnia Magna para uso en bioensayos</td>
     
 </tr>
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td>    Pedro Pérez Hernández <br> </td>
+        <td>Licenciatura en Física (Agosto 2018). <br> Título de tesis: Simulación de un modelo SIR epidemiológico con movilidad espacial y temporal</td>
+    
+</tr>
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td>   Cristian Cruz Pérez Águila <br> </td>
+        <td>Maestría en Física Aplicada (Agosto 2018). <br> Título de tesis:Caracterización de series  de  tiempo  para  coadyuvar  al  diagnóstico  de  electroencefalogramas (Codirección  con J.Fernando Rojas)</td>
+    
+</tr>
 </table>
