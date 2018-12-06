@@ -23,8 +23,14 @@ img {
     </tr>
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
-        <td>  Emilene Pliego Pliego <br> <i>No hay límites para los sueños cuando la razón abraza la pasión y esta a la imaginación...</i>(Hermes) <br> Los sueños con perseverancia y dedicación se convierten en realidad, la realidad se estudia mediante modelos matemáticos, por eso, mi mayor interés es elaborar y diseñar modelos matemáticos para comprender esa realiad, además que sean útiles y benéficos para la sociedad.</td>
+        <td>  Emilene Pliego Pliego <br> </td>
         <td>Doctorado en Matemáticas (Noviembre 2017). <br> Título de tesis: Dengue fever models and optimal control in the life-cycle of Aedes aegypti mosquitoes. </td>
+    
+</tr>
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td>   Esli Daniel Morales Tehuitzitl <br> </td>
+        <td>Licenciatura en Física Aplicada (Abril 2018). <br> Título de tesis: Estrategia de control de los efectos adversos del síndrome de abejas anarquistas en apicultura basado en un modelo dinámico</td>
     
 </tr>
 </table>
