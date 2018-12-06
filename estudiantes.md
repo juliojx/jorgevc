@@ -33,4 +33,11 @@ img {
         <td>Licenciatura en Física Aplicada (Abril 2018). <br> Título de tesis: Estrategia de control de los efectos adversos del síndrome de abejas anarquistas en apicultura basado en un modelo dinámico</td>
     
 </tr>
+
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td>   Germain Cid Martinez <br> </td>
+        <td>Licenciatura en Matem ́aticas Aplicadas (Julio 2018). <br> Título de tesis: Modelo del ciclo de vida de la Daphnia Magna para uso en bioensayos</td>
+    
+</tr>
 </table>
