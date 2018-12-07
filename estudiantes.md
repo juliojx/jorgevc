@@ -70,4 +70,12 @@ img {
         <td>Licenciatura en Física (En direccion). <br> ́Aplicación de un Regulador Cuadrático Lineal (LQR) como método de control en un robot seguidor de líneas</td>
     
 </tr>
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td> Zurisaddai Sandoval Lara <br> </td>
+        <td>Licenciatura en Matemáticas Aplicadas (En dirección). <br> ́Modelo matemático de la propagación de la enfermedad Rickettsia y su uso para el diseño de una estrategia de control</td>
+    
+</tr>
+
+
 </table>
