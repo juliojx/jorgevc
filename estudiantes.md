@@ -61,7 +61,7 @@ img {
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
         <td> Juan Pablo Fernández Guzmán <br> </td>
-        <td>Licenciatura en Física (Diciembre 2018). <br> ́Índices de riesgo en modelo adulto-infante para la influenza estacional</td>
+        <td>Licenciatura en Física (Diciembre 2018). <br> Índices de riesgo en modelo adulto-infante para la influenza estacional</td>
     
 </tr>
 <tr>
@@ -73,25 +73,25 @@ img {
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
         <td> Zurisaddai Sandoval Lara <br> </td>
-        <td>Licenciatura en Matemáticas Aplicadas (En dirección). <br> ́Modelo matemático de la propagación de la enfermedad Rickettsia y su uso para el diseño de una estrategia de control</td>
+        <td>Licenciatura en Matemáticas Aplicadas (En dirección). <br> Modelo matemático de la propagación de la enfermedad Rickettsia y su uso para el diseño de una estrategia de control</td>
     
 </tr>
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
         <td> Osvaldo Jiménez Montiel <br> </td>
-        <td>Licenciatura en Biología (En dirección). <br> ́Modelo Matemático de la difusión del ion Ca2++ en células de cáncer de colon</td>
+        <td>Licenciatura en Biología (En dirección). <br> Modelo Matemático de la difusión del ion Ca2++ en células de cáncer de colon</td>
     
 </tr>
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
         <td> Alejando Romero García <br> </td>
-        <td>Licenciatura en Matemáticas Aplicadas (En dirección): <br> ́</td>
+        <td>Licenciatura en Matemáticas Aplicadas (En dirección): <br> </td>
     
 </tr>
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
         <td> Marco Antonio Esperón Pintos <br> </td>
-        <td>Licenciatura en Física (En dirección): <br> ́</td>
+        <td>Licenciatura en Física (En dirección): <br> </td>
     
 </tr>
 
