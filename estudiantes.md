@@ -60,8 +60,14 @@ img {
 </tr>
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
-        <td> Juan Pablo Fernandez Guzman <br> </td>
+        <td> Juan Pablo Fernández Guzmán <br> </td>
         <td>Licenciatura en Física (Diciembre 2018). <br> ́Índices de riesgo en modelo adulto-infante para la influenza estacional</td>
+    
+</tr>
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td> Julio César Juarez Xochitemol <br> </td>
+        <td>Licenciatura en Física (En direccion). <br> ́Aplicación de un Regulador Cuadrático Lineal (LQR) como método de control en un robot seguidor de líneas</td>
     
 </tr>
 </table>
