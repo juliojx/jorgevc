@@ -52,4 +52,10 @@ img {
         <td>Maestría en Física Aplicada (Agosto 2018). <br> Título de tesis:Caracterización de series  de  tiempo  para  coadyuvar  al  diagnóstico  de  electroencefalogramas (Codirección  con J.Fernando Rojas)</td>
     
 </tr>
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td>    Uvencio  Gimenez  Mujica <br> </td>
+        <td>Maestrıa  en  Matematicas (Diciembre  2018). <br> Propuesta  de  un ́ındice de invasión para epidemias descritas por modelos SIR en redes meta-poblacionales</td>
+    
+</tr>
 </table>
