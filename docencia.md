@@ -9,8 +9,21 @@ title: "Docencia"
 <h3 id="Docencia">Mi experiencia en docencia</h3>  
 
 <ul>
+  <li style="font-size:75%;"><i>Ecuaciones diferenciales</i>, licenciatura FCFM-BUAP, Otoño 2018</li>
   <li style="font-size:75%;"><i>Mecánica estadística</i>, licenciatura FCFM-BUAP, Otoño 2018</li>
   <li style="font-size:75%;"><i>Ecuaciones Diferenciales</i>, licenciatura FCFM-BUAP, Otoño 2018 </li>
+  <li style="font-size:75%;"><i> Técnicas Numéricas Aplicadas a Sistemas Vivos</i>, licenciatura FCFM-BUAP, Primavera 2018 </li>
+  <li style="font-size:75%;"><i>Laboratorio de modelación matemática</i>, licenciatura FCFM-BUAP, Primavera 2018 </li>
+  <li style="font-size:75%;"><i>Modelación matemática de sistemas biológicos </i>, maestría y doctorado FCFM-BUAP, Primavera 2018 </li>
+  <li style="font-size:75%;"><i>Modelación matemática de sistemas biológicos</i>, Maestría FCFM-BUAP, Otoño 2017 </li>
+  <li style="font-size:75%;"><i>Tópicos de mecánica estadística</i>, Maestría en Física Aplicada FCFM-BUAP, Otoño 2017 </li>
+  <li style="font-size:75%;"><i>Métodos de Simulación</i>, Licenciatura FCFM-BUAP, Otoño 2017 </li>
+  <li style="font-size:75%;"><i>Mecánica Estadística</i>, Licenciatura FCFM-BUAP, Otoño 2017 </li>
+  <li style="font-size:75%;"><i>Modelación Matemática de Medios Continuo</i>, Doctorado FCFM-BUAP, Primavera 2017 </li>
+  <li style="font-size:75%;"><i>Sistemas Dinámicos Controlable</i>, Licenciatura FCFM-BUAP, Primavera 2017 </li>
+  <li style="font-size:75%;"><i>Ecuaciones Diferenciales</i>, Licenciatura FCFM-BUAP, Primavera 2017 </li>
+  <li style="font-size:75%;"><i>Mecánica Estadística</i>, Licenciatura FCFM-BUAP, Otoño 2017 </li>
+  
   <li style="font-size:75%;"><i>Laboratorio de Modelación Matemática</i> licenciatura FCFM-BUAP, Otoño 2016</li>
   <li style="font-size:75%;"><i>Ecuaciones Diferenciales I</i>, licenciatura FCFM-BUAP, Otoño 2016</li>
   <li style="font-size:75%;"><i>Modelación Matemática de sistemas biológicos II</i>, doctorado FCFM-BUAP, Otoño 2016</li>
