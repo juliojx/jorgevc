@@ -85,13 +85,13 @@ img {
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
         <td> Alejando Romero García <br> </td>
-        <td>Licenciatura en Matemáticas Aplicadas (En dirección):. <br> ́</td>
+        <td>Licenciatura en Matemáticas Aplicadas (En dirección): <br> ́</td>
     
 </tr>
 <tr>
    <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
         <td> Marco Antonio Esperón Pintos <br> </td>
-        <td>Licenciatura en Física (En dirección):. <br> ́</td>
+        <td>Licenciatura en Física (En dirección): <br> ́</td>
     
 </tr>
 
