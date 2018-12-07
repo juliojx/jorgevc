@@ -58,4 +58,10 @@ img {
         <td>Maestrıa  en  Matematicas (Diciembre  2018). <br> Propuesta  de  un ́ındice de invasión para epidemias descritas por modelos SIR en redes meta-poblacionales</td>
     
 </tr>
+<tr>
+   <td>  <img src="https://juliojx.github.io/jorgevc/ImagenesEstudiantes/imgprueba.jpg" width="500">  </td>
+        <td> Juan Pablo Fernandez Guzman <br> </td>
+        <td>Licenciatura en Física (Diciembre 2018). <br> ́Índices de riesgo en modelo adulto-infante para la influenza estacional</td>
+    
+</tr>
 </table>
